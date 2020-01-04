@@ -10,7 +10,7 @@
 	</head>
 	<body class="is-preload">
 		<div id="page-wrapper">
-			@inputcontent
+			@content()
 
 			@input(template/footer.content)
 		</div>
